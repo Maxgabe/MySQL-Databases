@@ -33,21 +33,24 @@ Below are some SQL operations that I made in my Database.
 
 -----------------
 
-## Joins
+# Joins
 
-# Left Join
+## Left Join
 <img src="SQL-Database/LEFT JOIN.png"> 
 
 -----------------
 
-# Right Join
+## Right Join
 
 <img src="SQL-Database/RIGHT JOIN.png"> 
 
 -----------------
-# Union Join 
+## Union Join 
 
 <img src="SQL-Database/UNION.png"> 
 
 -----------------
+
+
+
 
