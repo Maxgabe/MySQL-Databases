@@ -47,7 +47,7 @@ Below are some SQL operations that I made in my Database.
 -----------------
 # Union Join 
 
-<img src="SSQL-Database/UNION.png"> 
+<img src="SQL-Database/UNION.png"> 
 
 -----------------
 
