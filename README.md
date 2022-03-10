@@ -4,7 +4,7 @@ Below are some SQL operations that I made in my Database.
 
 -----------------
 
-## CRUD Operations
+# CRUD Operations
 
 ## Insert
 
