@@ -13,9 +13,17 @@ Below are some SQL operations that I made in my Database.
 
 -----------------
 
-## CRUD Operations
-
 ## Select 
 
 <img src="SQL-Database/SELECT 1.png"> 
 <img src="SQL-Database/SELECT 2.png"> 
+
+-----------------
+
+
+## Update  
+
+<img src="SQL-Database/UPDATE.png"> 
+
+
+
