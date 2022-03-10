@@ -25,5 +25,9 @@ Below are some SQL operations that I made in my Database.
 
 <img src="SQL-Database/UPDATE.png"> 
 
+-----------------
 
+## Delete
+
+<img src="SQL-Database/Delete.png"> 
 
